@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheIndianCoder 
-- 👀 I’m interested in coding and managing 
-- 🌱 I’m currently learning Btech in CSE branch.
+- 👋 Hi, I’m @Mithun Thakur 
+- 👀 I’m a Software Engineer
+- 🌱 I’m Btech holder in CSE branch.
 - 📫 How to reach me ... 
 - My Email id :-  mkumar870936@gmail.com
 - My Phone Number :- 8709365153 
