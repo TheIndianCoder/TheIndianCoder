@@ -1,27 +1,66 @@
-# TheIndianCoder-
-Who Am I 
-# 👨‍💻 The Indian Coder
+# Hi 👋 I'm Jitendra Sai Muddineni
 
-🎮 Indie Game Dev | ⚙️ DevOps Engineer | 🐍 Python Painter  
-Crafting tech that’s fast, fun, and fearless.
+## 🚀 Senior DevOps & Cloud Engineer | AWS | Kubernetes | Platform Engineering
 
----
-
-### 🧠 About Me
-
-- 💻 I build simple games with scalable ideas — designed to plug into gaming platforms
-- 🔧 Skilled in DevOps pipelines, infrastructure, automation, and cloud
-- 🎯 Focused on provably fair game logic, crypto integrations, and user-first game mechanics
+Experienced DevOps and Cloud Engineer with 5+ years of experience building scalable cloud infrastructure, CI/CD automation, Kubernetes platforms, and DevSecOps solutions across enterprise AWS environments.
 
 ---
 
-### 🚀 Projects Worth Checking
+## ☁️ Core Expertise
 
-🔹 [dice-play](https://github.com/TheIndianCoder/dice-play) – A provably fair dice rolling game, perfect for real-money platforms  
-🔹 [coin-flip]( https://github.com/TheIndianCoder/Flip-coin)– Clean heads/tails game with betting engine concept  
-🔹 [devops](https://github.com/TheIndianCoder/devops) – Scripts, infra-as-code, pipelines
+- AWS Cloud Infrastructure (EC2, EKS, ECS, Lambda, IAM, VPC, RDS, S3)
+- Kubernetes & Containerization
+- Terraform & Infrastructure as Code
+- CI/CD Automation (GitLab CI, Jenkins, GitHub Actions, CodePipeline)
+- DevSecOps & Security Automation
+- Monitoring & Observability (Prometheus, Grafana, OpenTelemetry)
+- Python & Bash Automation
+- Linux Administration & Cloud Networking
 
 ---
 
-### 🧰 Tech Stack
+## 📌 Key Highlights
 
+- Managed and automated infrastructure across 52+ AWS accounts
+- Led migration and modernization of 40+ CI/CD pipelines
+- Reduced AWS cloud costs by nearly 50% through optimization initiatives
+- Built cloud forensic and incident response automation solutions
+- Worked on EKS-based scalable microservices and platform automation
+- Improved deployment reliability and reduced operational effort through Infrastructure as Code
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+`AWS` `Terraform` `CloudFormation` `Linux` `Docker` `Kubernetes` `EKS`
+
+### CI/CD & DevOps
+`GitLab CI` `Jenkins` `GitHub Actions` `ArgoCD` `CodePipeline`
+
+### Monitoring & Security
+`Prometheus` `Grafana` `OpenTelemetry` `DevSecOps`
+
+### Languages & Automation
+`Python` `Bash`
+
+---
+
+## 📈 Current Focus
+
+- Platform Engineering
+- Kubernetes & EKS
+- DevSecOps Automation
+- Cloud Reliability & Observability
+- Infrastructure Scaling
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/jitendram1/
+- Email: jmuddineni@gmail.com
+
+---
+
+⭐ Building scalable, secure, and automated cloud platforms.
